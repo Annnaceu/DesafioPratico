@@ -18,8 +18,4 @@ O código foi desenvolvido com **Python**, utilizando bibliotecas como **Seleniu
 - **Pandas**: Para manipulação de dados e criação do relatório em Excel.
 - **SMTP**: Para envio do relatório por e-mail.
 
-## Como Executar
 
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/Projeto-RPA.git
